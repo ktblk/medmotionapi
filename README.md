@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* Completed jointly by suttonashley and ktblk while on a single computer
