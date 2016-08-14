@@ -36,18 +36,4 @@ class PatientsController < ApplicationController
 
     render json: new_patient
   end
-  # {
-  #   id: 24558788,
-  #   line1: "1948 NW 26TH STREET",
-  #   line2: null,
-  #   city: "MIAMI",
-  #   state: "Florida",
-  #   state_id: 10,
-  #   zip: "33131",
-  #   country_id: 225,
-  #   country_name: "UNITED STATES",
-  #   county_name: null,
-  #   is_primary: true
-  #   }
-
 end
